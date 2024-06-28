@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm pushpa Latha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpalatha5&label=Profile%20views&color=0e75b6&style=flat" w-60% alt="pushpalatha5" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpalatha5&label=Profile%20views&color=0e75b6&style=flat" alt="pushpalatha5" /> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
 
@@ -10,7 +11,7 @@
 - 📫 How to reach me **neyyalapushpa2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
